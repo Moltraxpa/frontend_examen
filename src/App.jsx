@@ -17,7 +17,6 @@ function App() {
     <div>
       <h1>Gestión de Datos</h1>
       <div>
-        <h2>Clientes</h2>
         <ArticuloComp articulos={articulos} setArticulos={setArticulos} />
       </div>
     </div>
